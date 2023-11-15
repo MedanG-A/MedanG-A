@@ -4,6 +4,7 @@ My name is Medan Grant-Anderson and I am currently a Data consultant at [Sparta 
 
 ### Contact Links
 
-[Email](Medan Grant-Anderson <medangrantanderson@gmail.com>)
+[Email](mailto:medangrantanderson@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/medan-grant-anderson-6689171a9)
 
