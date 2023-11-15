@@ -1,8 +1,8 @@
-### Hi there! Welcome to my profile!
+## Hi there! Welcome to my profile!
 
 My name is Medan Grant-Anderson and I am currently a Data consultant at [Sparta Global](https://www.spartaglobal.com/)!
 
-### Contact Links
+## Contact Links
 
 [Email](mailto:medangrantanderson@gmail.com)
 
